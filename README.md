@@ -1,4 +1,5 @@
 GVC
 ===
-Koen Litt
-Git Version Control
+Name: Koen Litt
+
+Assignment: Git Version Control
